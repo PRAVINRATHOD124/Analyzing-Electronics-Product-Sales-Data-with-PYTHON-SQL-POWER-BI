@@ -4,8 +4,11 @@ This project delves into the world of online electronics sales by analyzing a da
 
 🛠 Tools & Technologies
 Python: Pandas, SQLAlchemy (Data Cleaning, Imputation & Feature Engineering)
+
 MySQL: Advanced Querying (CTEs, Window Functions, Segmentation)
+
 Power BI: Interactive Dashboarding, DAX Measures, and KPI Tracking
+
 Jupyter Notebook: Exploratory Data Analysis (EDA)
 
 📈 Key Insights
