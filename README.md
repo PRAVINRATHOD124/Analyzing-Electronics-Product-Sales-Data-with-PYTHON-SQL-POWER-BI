@@ -21,18 +21,28 @@ Jupyter Notebook: Exploratory Data Analysis (EDA)
  We can see that the brand name of EINCAR sold the least followed closely with DURAGADGET.
  We can see that the category of Security and Surveillance sold the least.
 
+
+
 Dataset:
 The dataset used in this project is available publicly on Kaggle: https://www.kaggle.com/datasets/edusanketdk/electronics
 
 
+
+
+
 Task List:
  Import libraries and load data
+ 
  Clean and preprocess data
+ 
  Conduct exploratory data analysis
+ 
  Draw conclusions and insights
+
+
+
 
  📩 Contact Me
 Let's connect! I am open to discussions regarding Data Analytics and Business Intelligence.
-
 📧 Email: pravinr5544@gmail.com
 🔗 LinkedIn: www.linkedin.com/in/pravin-rathod-122325296/
