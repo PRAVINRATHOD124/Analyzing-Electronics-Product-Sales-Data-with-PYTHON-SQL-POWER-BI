@@ -2,14 +2,14 @@
 Description:
 This project delves into the world of online electronics sales by analyzing a dataset from E-Commerce site. Using Python libraries and guided by data science principles, we'll uncover valuable insights into customer behavior, product performance, and sales trends. This exploration will aid in understanding market dynamics and potentially inform strategic business decisions.
 
+
+
 🛠 Tools & Technologies
-Python: Pandas, SQLAlchemy (Data Cleaning, Imputation & Feature Engineering)
+- Python: Pandas, SQLAlchemy (Data Cleaning, Imputation & Feature Engineering)
+- MySQL: Advanced Querying (CTEs, Window Functions, Segmentation)
+- Power BI: Interactive Dashboarding, DAX Measures, and KPI Tracking
+- Jupyter Notebook: Exploratory Data Analysis (EDA)
 
-MySQL: Advanced Querying (CTEs, Window Functions, Segmentation)
-
-Power BI: Interactive Dashboarding, DAX Measures, and KPI Tracking
-
-Jupyter Notebook: Exploratory Data Analysis (EDA)
 
 
  📈 Key Insights
@@ -44,5 +44,6 @@ Task List:
 
  📩 Contact Me
 Let's connect! I am open to discussions regarding Data Analytics and Business Intelligence.
+
 📧 Email: pravinr5544@gmail.com
 🔗 LinkedIn: www.linkedin.com/in/pravin-rathod-122325296/
