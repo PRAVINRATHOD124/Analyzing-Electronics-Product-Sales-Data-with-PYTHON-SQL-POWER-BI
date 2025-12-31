@@ -10,12 +10,12 @@ Jupyter Notebook: Exploratory Data Analysis (EDA)
 
 📈 Key Insights
 # conclusion of our analysis
-# We can see that the year 2015 had the best sales.
-# The month of January had the best sales.
-# We can see that the brands Bose and Logitech sold the most
-# We can see that the category of Headphones sold the most.
-# We can see that the brand name of EINCAR sold the least followed closely with DURAGADGET.
-# We can see that the category of Security and Surveillance sold the least.
+ We can see that the year 2015 had the best sales.
+ The month of January had the best sales.
+ We can see that the brands Bose and Logitech sold the most
+ We can see that the category of Headphones sold the most.
+ We can see that the brand name of EINCAR sold the least followed closely with DURAGADGET.
+ We can see that the category of Security and Surveillance sold the least.
 
 
 
