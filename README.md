@@ -1,4 +1,4 @@
-# Analyzing-Electronics-Product-Sales-Data-with-PYTHON-SQL-POWER-BI
+# Analyzing-Electronics-Product-Sales-Data-Using-PYTHON-SQL-POWER-BI
 Description:
 This project delves into the world of online electronics sales by analyzing a dataset from E-Commerce site. Using Python libraries and guided by data science principles, we'll uncover valuable insights into customer behavior, product performance, and sales trends. This exploration will aid in understanding market dynamics and potentially inform strategic business decisions.
 
